@@ -5,4 +5,5 @@ import (
 
 func main() { // 声明 main 主函数
 	fmt.Println("Hello World!") // 打印 Hello World!
+	fmt.Println("Hello World!") 
 }
